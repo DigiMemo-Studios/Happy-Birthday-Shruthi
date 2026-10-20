@@ -28,7 +28,7 @@ const CONFIG = {
             date: "Nov 08, 2024",
             title: "The First Date",
             description: "Our first date felt a little weird, yet magical in a way I can never fully explain. ❤️ There was something about being with you that felt so natural, so comforting, like I had finally found a place that felt like home. The time we spent together and the day I came to meet you will always be one of the best days of my life. If I could relive one day with you over and over again, it would be that day. Because somewhere in those little moments, you became so much more than just someone I loved — you became my home. 🥹❤️♾️",
-            image: "assets/images/timeline_1.png"
+            image: "timeline_1.png"
         },
         {
             date: "Dec 06, 2024",
